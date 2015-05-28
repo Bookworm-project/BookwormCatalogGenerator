@@ -1,0 +1,4 @@
+{"date": "2008-9-15", "country": "USA", "recipient": "GOV", "filename": "USA_15SEPT2008_GOV"}
+{"date": "2008-9-16", "country": "USA", "recipient": "GC", "filename": "USA_16SEPT2008_GC"}
+{"date": "2014-9-16", "country": "USA", "recipient": "GC", "filename": "USA_16SEPT2014_GC"}
+{"date": "2014-9-16", "country": "USA", "recipient": "GOV", "filename": "USA_16SEPT2014_GOV"}
